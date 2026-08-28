@@ -6,7 +6,7 @@ _linuxprefix=linux618
 
 pkgname="${_linuxprefix}-nvidia-470xx"
 pkgver=470.256.02
-pkgrel=63
+pkgrel=64
 pkgdesc="NVIDIA kernel modules for ${_linuxprefix}"
 arch=('x86_64')
 url="https://www.nvidia.com/"
